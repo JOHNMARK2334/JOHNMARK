@@ -1,6 +1,6 @@
 # JOHNMARK
 # 💫 About Me:
-Hi, I am @JOHNMARK2334.<br>I am a junior software developer.<br><br>I am currently working on C,C++,java and front-end web development projects.<br> I am also looking to learn more on databases. 
+Hi, I am @JOHNMARK2334.<br>I am a junior software developer.<br><br>I am currently working on C,C++,java and full-stack web development projects as well as web-based solutions to counter rising need of storing and handling soft data.<br> I am also looking to learn more on databases. 
 
 
 ## 🌐 Socials:
